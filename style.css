@@ -51,3 +51,7 @@
 #cp-app-drive-content {
     background: black;
 }
+.cp-toolbar-userlist-drawer {
+ 	background: #3F4141;
+   color: lightgrey !important;                         
+}
